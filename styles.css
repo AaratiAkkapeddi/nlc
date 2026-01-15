@@ -6,6 +6,9 @@
     --secondary-color: #e5e4e2;
     --font-family: Arial, sans-serif;
 }
+a:visited{
+    color: blue;
+}
 
 body {
     font-family: var(--font-family);
